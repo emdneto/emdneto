@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![medium Badge](https://img.shields.io/badge/medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@emdneto)
+[![medium Badge](https://img.shields.io/badge/medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@emdneto)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emidioneto/)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16993728/emidio-neto)
 
