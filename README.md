@@ -7,7 +7,7 @@
 
 
 
-💻 Site Reliability Engineer @ [Nuveo](https://github.com/nuveo) | :books: MSc Student @ [UFRN/Brazil]()
+💻 Site Reliability Engineer @ [Zenvia](https://github.com/zenvia) | :books: MSc Student @ [UFRN/Brazil]()
 
 I've been working with Cloud, DevOps and Software-defined Networking since 2016 and I have active participation in several research projects on traditional/SDN networks. 
 
