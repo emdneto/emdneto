@@ -11,7 +11,9 @@
 
 Over the past few years, I have been dedicated to helping companies improve the scalability, reliability, and observability of cloud-native applications and large-scale infrastructures by employing DevOps practices. I'm also passionate about contributing to opensource projects and teaching.
 
-Besides coding and sysadmin, I'm also the Chapter Lead of the ☁️ [Cloud Native Community Group in RN/Brazil](https://community.cncf.io/cloud-native-rio-grande-do-norte/) ☁️ where I organize events to talk about Cloud Native projects. Feel free to reach me on Linkedin.
+Besides coding and sysadmin, I'm also the Chapter Lead of the ☁️ [Cloud Native Community Group in RN/Brazil](https://community.cncf.io/cloud-native-rio-grande-do-norte/) ☁️ where I organize events to talk about Cloud Native projects and contributor of 📑 [LaTARC Research Lab](https://latarc.ifrn.edu.br/) for more than 8 years where I published several technical papers in IEEE conferences and journals. 
+
+Feel free to reach me on Linkedin.
 
  
 <!--[![Sponsor Badge](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#white)](https://stackoverflow.com/users/16993728/emidio-neto)-->
