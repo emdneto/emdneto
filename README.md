@@ -19,14 +19,20 @@ Feel free to reach me on Linkedin.
 <!--[![Sponsor Badge](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#white)](https://stackoverflow.com/users/16993728/emidio-neto)-->
 
 
-![badge](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white)
-![badge](https://img.shields.io/badge/Terraform-%235835CC?style=flat-square&logo=terraform&logoColor=white)
-![badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![badge](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
+![badge](https://img.shields.io/badge/Kafka-000000?style=flat-squaree&logo=apachekafka&logoColor=white)
+![badge](https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-squaree&logo=kubernetes&logoColor=white)
+![badge](https://img.shields.io/badge/Terraform-%235835CC?style=flat-squaree&logo=terraform&logoColor=white)
+![badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-squaree&logo=amazon-aws&logoColor=white)
 ![badge](https://img.shields.io/badge/Python-3776AB?style=flat-squaree&logo=python&logoColor=white)
 ![badge](https://img.shields.io/badge/Go-00ADD8?style=flat-squaree&logo=go&logoColor=white)
-![badge](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![badge](https://img.shields.io/badge/Linux-FCC624?style=flat-squaree&logo=linux&logoColor=black)
+![badge](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-squaree&logo=redhat&logoColor=white)
+![badge](https://img.shields.io/badge/Git-F05032?style=flat-squaree&logo=git&logoColor=white)
+![badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-squaree&logo=mongodb&logoColor=white)
+![badge](https://img.shields.io/badge/Prometheus-E6522C?style=flat-squaree&logo=prometheus&logoColor=white)
+![badge](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-squaree&logo=opentelemetry&logoColor=white)
+<!--![badge](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white)-->
+
 
 
 <!--
