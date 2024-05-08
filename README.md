@@ -28,7 +28,7 @@ Feel free to reach me on Linkedin.
 ![badge](https://img.shields.io/badge/Linux-FCC624?style=flat-squaree&logo=linux&logoColor=black)
 ![badge](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-squaree&logo=redhat&logoColor=white)
 ![badge](https://img.shields.io/badge/Git-F05032?style=flat-squaree&logo=git&logoColor=white)
-![badge](https://img.shields.io/badge/Prometheus-E6522C?style=flat-squaree&logo=prometheus&logoColor=white)
+<!--![badge](https://img.shields.io/badge/Prometheus-E6522C?style=flat-squaree&logo=prometheus&logoColor=white)-->
 ![badge](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-squaree&logo=opentelemetry&logoColor=white)
 <!--![badge](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white)-->
 
