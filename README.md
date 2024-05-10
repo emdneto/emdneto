@@ -1,4 +1,4 @@
-### Hi there 👋
+I### Hi there 👋
 
 [![medium Badge](https://img.shields.io/badge/medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@emdneto)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emidioneto/)
@@ -11,7 +11,7 @@
 
 Over the past few years, I have been dedicated to helping companies improve the scalability, reliability, and observability of cloud-native applications and large-scale infrastructures by employing DevOps practices. I'm also passionate about contributing to opensource projects and teaching.
 
-Besides coding and sysadmin, I'm also the Chapter Lead of the ☁️ [Cloud Native Community Group in RN/Brazil](https://community.cncf.io/cloud-native-rio-grande-do-norte/) ☁️ where I organize in-person and online meetups to talk about Cloud Native projects and contributor of 📑 [LaTARC Research Lab](https://latarc.ifrn.edu.br/) for more than 8 years where I published several technical papers in IEEE conferences and journals. 
+Besides coding and sysadmin, I'm also the Chapter Lead of the ☁️ [Cloud Native Community Group in RN/Brazil](https://community.cncf.io/cloud-native-rio-grande-do-norte/) ☁️ where I organize in-person and online meetups to talk about Cloud Native projects and I'm also contributor of 📑 [LaTARC Research Lab](https://latarc.ifrn.edu.br/) for more than 8 years where I have published several technical papers in IEEE conferences and journals. 
 
 Feel free to reach me on Linkedin.
 
