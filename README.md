@@ -1,4 +1,4 @@
-I### Hi there 👋
+### Hi there 👋
 
 [![medium Badge](https://img.shields.io/badge/medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@emdneto)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emidioneto/)
