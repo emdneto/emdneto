@@ -9,9 +9,9 @@
 
 💻 Site Reliability Engineer @ [Zenvia](https://github.com/zenvia) | :books: Master in Computer Science @ [UFRN/Brazil]()
 
-Over the past few years, I have been dedicated to helping companies improve the scalability, reliability, and observability of cloud-native applications and large-scale infrastructures by employing DevOps practices. I'm also passionate about contributing to opensource projects and teaching.
+Over the past few years, I have been dedicated to helping companies improve the scalability, reliability, and observability of cloud-native applications and large-scale infrastructures by employing DevOps culture and SRE practices. I'm also passionate about contributing to open-source projects and teaching.
 
-Besides coding and sysadmin, I'm also the Chapter Lead of the ☁️ [Cloud Native Community Group in RN/Brazil](https://community.cncf.io/cloud-native-rio-grande-do-norte/) ☁️ where I organize in-person and online meetups to talk about Cloud Native projects and I'm also contributor of 📑 [LaTARC Research Lab](https://latarc.ifrn.edu.br/) for more than 8 years where I have published several technical papers in IEEE conferences and journals. 
+Besides coding and sysadmin, I'm also the Chapter Lead of the ☁️ [Cloud Native Community Group in RN/Brazil](https://community.cncf.io/cloud-native-rio-grande-do-norte/) ☁️ where I organize in-person and online meetups to talk about Cloud Native projects and I'm also contributor of 📑 [LaTARC Research Lab](https://github.com/latarc/) for more than 8 years where I have published several technical papers in IEEE conferences and journals. 
 
 Feel free to reach me on Linkedin.
 
