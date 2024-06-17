@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![medium Badge](https://img.shields.io/badge/medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@emdneto)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emidioneto/)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16993728/emidio-neto)
 
@@ -11,10 +10,7 @@
 
 Over the past few years, I have been dedicated to helping companies improve the scalability, reliability, and observability of cloud-native applications and large-scale infrastructures by employing DevOps culture and SRE practices. I'm also passionate about contributing to open-source projects and teaching.
 
-Besides coding and sysadmin, I'm also the Chapter Lead of the ☁️ [Cloud Native Community Group in RN/Brazil](https://community.cncf.io/cloud-native-rio-grande-do-norte/) ☁️ where I organize in-person and online meetups to talk about Cloud Native projects and I'm also contributor of 📑 [LaTARC Research Lab](https://github.com/latarc/) for more than 8 years where I have published several technical papers in IEEE conferences and journals. 
-
-Feel free to reach me on Linkedin.
-
+Besides coding and sysadmin, I'm also the Chapter Lead of the ☁️ [Cloud Native Community Group in RN/Brazil](https://community.cncf.io/cloud-native-rio-grande-do-norte/) ☁️ where I organize in-person and online meetups to talk about Cloud Native projects. I've also been a contributor to 📑 [LaTARC Research Lab](https://github.com/latarc/) for more than 8 years, where I have published several technical papers in IEEE conferences and journals.
  
 <!--[![Sponsor Badge](https://img.shields.io/badge/sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#white)](https://stackoverflow.com/users/16993728/emidio-neto)-->
 
@@ -31,7 +27,7 @@ Feel free to reach me on Linkedin.
 ![badge](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-squaree&logo=opentelemetry&logoColor=white)
 <!--![badge](https://img.shields.io/badge/Prometheus-E6522C?style=flat-squaree&logo=prometheus&logoColor=white)-->
 <!--![badge](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white)-->
-
+<!--[![medium Badge](https://img.shields.io/badge/medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@emdneto)-->
 
 
 <!--
